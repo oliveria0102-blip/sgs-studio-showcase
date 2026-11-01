@@ -1,0 +1,16 @@
+{
+  "version": "0.6.13-portfolio.1",
+  "files": 1379,
+  "bytes": 573469199,
+  "application_source_attachments": 0,
+  "model_weights": 0,
+  "private_regional_presets": 0,
+  "secret_pattern_findings": [],
+  "solver_binary_unchanged": true,
+  "desktop_startup_and_project_open": "passed",
+  "synthetic_24h_call": {
+    "rows": 24,
+    "scope": "packaging integration only"
+  },
+  "third_party_source_files_retained": 90
+}
